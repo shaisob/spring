@@ -1,0 +1,29 @@
+<records>
+<record>
+   <sl.no> 23 </sl.no>
+   <name> john carter </name>
+ <admission>  
+   <day> 35000 </day> 
+   <month> 11 </month>  
+   <year> 11 </year>
+  </admission>  
+</record>   
+<record>
+   <sl.no> 29 </sl.no>
+   <name> bob marshel </name>
+   <admission>  
+   <day> 35000 </day> 
+   <month> 11 </month>  
+   <year> 11 </year>
+  </admission>  
+</record>   
+<record>
+   <sl.no> 35</sl.no>
+   <name>clark kent </name>
+  <admission>  
+   <day> 35000 </day> 
+   <month> 11 </month>  
+   <year> 11 </year>
+  </admission>  
+</record>
+</records>   
